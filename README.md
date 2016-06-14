@@ -37,7 +37,7 @@ NOTE -
 Star Marked Keys(*) available in both executables namely draw and drawWithoutResize.  
 
 Important Keys -   
-<center>
+
 |S.No|  Keys  | Function                                 |
 ----:|-------:|-----------------------------------------:|
 | 1. |"a"/"A" | Move Left                                |
@@ -51,4 +51,3 @@ Important Keys -
 | 9. |"j"/"J" | Rotate Frame Right                       |
 |*10.|"f"/"F" | Move Animal Forward                      |
 |*11.|"b"/"B" | Move Animal Backward                     |
-</center>
