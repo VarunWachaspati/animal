@@ -30,7 +30,7 @@ How to run the program -
 3. Refer the keys given below for better experience and ease of understading.
 
 NOTE -   
-1. test.cpp - Satisfies all the criteria stated in the Assignment sheet. Keys Supported - "w"/"W"(Toggle), "f"/"F"(Forward move) and "b"/"B"(Backward Move). Camera is Fixed and also resizing of Window is allowed.    
+1. test.cpp - Satisfies all the criteria stated in the Assignment sheet.   Keys Supported - "w"/"W"(Toggle), "f"/"F"(Forward move) and "b"/"B"(Backward Move).   Camera is Fixed and also resizing of Window is allowed.    
 2. test2.cpp - Satisfies all criteria except for Resizing Compatability but user can Move around the entire scene using the following keys.Quite useful for exploring the environment created and objects rendered.  
  
 
