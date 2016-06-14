@@ -2,7 +2,7 @@
 An effort to create an animal with motion using OpenGL
 
 Screenshot :  
-![alt text](https://raw.githubusercontent.com/VarunWachaspati/animal/master/Animal.png"Animal")
+![alt text]( https://raw.githubusercontent.com/VarunWachaspati/animal/master/Animal.png "Animal")
 
 Requirements to run the Program -  
 1. gcc compiler (4.8.4)  
